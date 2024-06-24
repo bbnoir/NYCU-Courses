@@ -2,14 +2,17 @@
 
 This repository contains the course materials for the courses I have taken at National Yang Ming Chiao Tung University (NYCU). Also, there are some materials for the projects and the contests I have participated in.
 
+> [!NOTE]
+> :whale: Including homeworks and projects.
+
 ## Courses
 
-- [Introduction to Image Processing](https://github.com/bbnoir/2024-Spring-Introduction-to-Image-Processing.git)
-- [Computer Animation and Special Effects](https://github.com/bbnoir/2024-Spring-Computer-Animation-and-Special-Effects)
-- [Introduction to Machine Learning](https://github.com/bbnoir/2024-Spring-Introduction-to-Machine-Learning)
-- [Digital Circuits and Systems](https://github.com/bbnoir/dcs)
+- [Introduction to Image Processing](https://github.com/bbnoir/2024-Spring-Introduction-to-Image-Processing.git) :whale:
+- [Computer Animation and Special Effects](https://github.com/bbnoir/2024-Spring-Computer-Animation-and-Special-Effects) :whale:
+- [Introduction to Machine Learning](https://github.com/bbnoir/2024-Spring-Introduction-to-Machine-Learning) :whale:
+- [Digital Circuits and Systems](https://github.com/bbnoir/dcs) :whale:
     - [Project](https://github.com/bbnoir/2D-convolution)
-- [Electronic Design Automation Algorithms and Implementation](https://github.com/bbnoir/eda)
+- [Electronic Design Automation Algorithms and Implementation](https://github.com/bbnoir/eda) :whale:
 
 ## Projects
 
