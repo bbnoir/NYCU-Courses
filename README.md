@@ -13,6 +13,7 @@ This repository contains the course materials for the courses I have taken at Na
 - [Digital Circuits and Systems](https://github.com/bbnoir/dcs) :whale:
     - [Project](https://github.com/bbnoir/2D-convolution)
 - [Electronic Design Automation Algorithms and Implementation](https://github.com/bbnoir/eda) :whale:
+- [AI Summer Bootcamp](https://github.com/bbnoir/2023-Summer-AI-Bootcamp) :whale:
 
 ## Projects
 
